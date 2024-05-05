@@ -23,7 +23,7 @@ class _ProblemFourState extends State {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("button4"),
+        title: const Text("button"),
       ),
       body: const Center(
         child: Text("hover color change button"),
